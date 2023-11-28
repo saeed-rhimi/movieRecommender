@@ -1,6 +1,6 @@
 # Movie Recommender Project
 
-This project is a Python-based movie recommender system, utilizing a Jupyter Notebook for data analysis and modeling. The goal is to provide movie recommendations based on various features extracted from the TMDB 5000 Movie Dataset.
+This project is a Python-based movie recommender system, utilizing a Jupyter Notebook for data analysis and modeling. The goal is to provide movie recommendations based on various features extracted from the IMDB 5000 Movie Dataset.
 
 ## Project Structure
 
@@ -21,9 +21,6 @@ To run this project, you need to have Python installed along with the following 
 
 You can install these packages using pip:
 pip install pandas numpy matplotlib scikit-learn nltk
-
-css
-Copy code
 
 ## Usage
 
